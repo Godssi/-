@@ -1,0 +1,18 @@
+#trvIMg img {
+    width:200px;
+}
+
+#trvIMg button {
+    display: none;
+}
+
+#postscript {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#postscript p {
+    width: 1fr;
+    height: 200px;
+    border: 5px solid gray;
+}

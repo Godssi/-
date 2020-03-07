@@ -1,0 +1,35 @@
+#id_ps-box input {
+    font-size: 25px;
+    border: thin;
+
+}
+
+#identify .name{
+    font-size: 25px;
+    border: thin;
+    width: 390px;
+}
+
+#gender-box select {
+    width: 390px;
+    height: 31px;
+    border: thin;
+    font-size: 15px;
+}
+
+.choice {
+    color:gray;
+    font-size: 15px;
+}
+
+#email input {
+    font-size: 25px;
+    border: thin;
+    width: 390px;
+}
+
+#join_member input {
+    font-size: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}

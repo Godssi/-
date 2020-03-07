@@ -1,0 +1,36 @@
+#mainlist {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-right: 3px solid rgb(14, 192, 14);
+    padding-left: 0px;
+}
+
+#mainlist li {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#season {
+    margin-bottom: 10px;
+}
+
+#places ul{
+    padding: 0px;
+}
+
+#another-season {
+    display: grid;
+    border-top: 3px solid rgb(14, 192, 14);
+    border-bottom: 3px solid rgb(14, 192, 14);
+}
+
+#another-season ul {
+    padding: 0px;
+}
+
+#places {
+    display: grid;
+    border-top: 3px solid rgb(14, 192, 14);
+}

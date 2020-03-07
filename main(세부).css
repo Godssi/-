@@ -1,0 +1,23 @@
+#mainheader {
+    border-bottom: 3px solid rgb(14, 192, 14);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+
+#ps-search {
+    font-size: 12px;
+}
+
+#ps-search a {
+    color: rgb(61, 60, 60);
+}
+
+#member-join {
+    font-size: 12px;
+}
+
+#member-join a {
+    color: rgb(61, 60, 60);
+}

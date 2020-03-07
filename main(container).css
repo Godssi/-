@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+} 
+
+.no_underline {
+    text-decoration: none;
+}
+
+.blackfont {
+    color: black;
+}
+
+#maingrid {
+    display: grid;
+    grid-template-columns: 145px 1fr;
+}
+
+#login {
+    border-bottom: 3px solid rgb(14, 192, 14);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}

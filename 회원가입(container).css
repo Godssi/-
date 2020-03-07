@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(248, 246, 246);
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.head {
+    text-align: center;
+}
+
+.head a{
+    color: rgb(14, 192, 14);
+}
+
+#container {
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+#id_ps-box {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+#id {
+    position: center;
+}
+
+#id-box {
+    border: 2px solid rgb(14, 192, 14);
+    width: 400px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#ps-box {
+    border: 2px solid rgb(14, 192, 14);
+    width: 400px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#pscheck-box {
+    border: 2px solid rgb(14, 192, 14);
+    width: 400px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#identify {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+#name {
+    border: 2px solid rgb(14, 192, 14);
+    width: 400px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#gender-box {
+    border: 2px solid rgb(14, 192, 14);
+    width: 400px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#birth-box span {
+    border: 2px solid rgb(14, 192, 14);
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#email {
+    border: 2px solid rgb(14, 192, 14);
+    width: 400px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#tel {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+#join_member {
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
